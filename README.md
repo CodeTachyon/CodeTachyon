@@ -1,44 +1,37 @@
-<h2 align="left"># 👋 Hi there, I'm Brijesh — Welcome to my Digital Lab!</h2>
+<h1 align="left">👋 Hi there, I'm Brijesh — Welcome to my Digital Lab!</h1>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<h4 align="left">🎓 I have recently completed my M.Sc. in Physics, with a strong passion for Computational Physics, Embedded Systems, and the Internet of Things (IoT). <br><br>💡 I love blending science with technology — from building real-time sensor networks to designing smart alert systems and interactive dashboards.</h4>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-</div>
+<h2 align="left">About me</h2>
+
+###
+
+<h5 align="left">📡 I work with:<br>- ESP8266 / ESP32 / Arduino<br>- Real-time dashboards & notifications (FCM, Web Push)<br>- Embedded programming in C++, Python for analysis<br>- Scientific tools: NumPy, SciPy, Matplotlib<br><br>🔧 Currently working on real-time IoT systems for sensor data monitoring, alerts, and web integration.<br><br>🚀 Projects I'm Building<br><br>-  Smart IoT Alert System   :  Real-time sensor monitoring with push notifications using ESP modules and web technologies.<br>- Offline Sensor Dashboard  : ESP-hosted web UI for temperature, humidity, and gas data — no internet required.<br>-  LED Memory Game : A fun button-LED game with difficulty levels, LCD display, and sound effects.<br>-  Wireless Bell System  : ESP-based local alarm scheduler with a web interface and offline bell triggering.<br><br>🧠 I'm Currently Learning<br><br>- Data Science (NumPy, Pandas, Matplotlib)<br>- Basics of Machine Learning<br>- Advanced embedded systems with ESP32<br>- Web integration for IoT (Firebase, REST APIs)<br>- Signal processing and sensor data visualization</h5>
+
+###
+
+<h2 align="left">I code with</h2>
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeTachyon/CodeTachyon/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeTachyon/CodeTachyon/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CodeTachyon/CodeTachyon/output/pacman-contribution-graph.svg">
-</picture>
+<h4 align="left">"The real world is analog, but I like making it digital."</h4>
 
 ###
