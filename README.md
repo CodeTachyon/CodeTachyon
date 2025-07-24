@@ -1,54 +1,46 @@
-<!-- Banner -->
+<!-- Banner Section -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CodeTachyon/CodeTachyon/main/banner.png" alt="Banner" />
+  <img src="https://github.com/CodeTachyon/CodeTachyon/blob/main/banner.png" width="100%" height="200px" style="object-fit: cover; border-radius: 10px;" />
 </p>
 
-<h1 align="center">Hi, I'm Brijesh 👋</h1>
-
+<!-- Overlayed Text -->
 <p align="center">
-  <b>Electronics Enthusiast | Embedded Developer | AI & ML Explorer</b>
-</p>
-
----
-
-## 🧠 About Me
-
-- 🔌 Passionate about embedded systems and digital electronics  
-- ⚙️ Skilled in microcontroller programming, signal processing, and system design  
-- 💻 Exploring Artificial Intelligence, Machine Learning, and Data Science  
-- 📡 Love building real-world projects with sensors, automation, and smart interfaces  
-- 🔭 Currently working on combining physics, electronics, and computational models
-
----
-
-## 🛠️ Languages & Tools
-
-### Programming Languages:
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Platforms & Tools:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="Brijesh's GitHub stats" />
+  <strong><span style="font-size: 30px;">Hi 👋 I'm Brijesh Baraiya</span></strong><br/>
+  <em>Enthusiastic Developer | Physics Postgraduate | Focused on AI/ML + Electronics</em>
 </p>
 
 ---
 
-## 🌐 Connect with Me
+### 💻 Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+- 🚀 Languages: `C++`, `HTML5`, `CSS`, `JavaScript`
+- 🧠 Technologies: `Node.js`, `Express.js`, `Socket.IO`
+- 📡 Platforms: `ESP32`, `Raspberry Pi`, Web + IoT integration
+- 📊 Interests: AI • Machine Learning • Embedded Systems • Computational Physics
 
 ---
 
-<!-- Replace your-username with your actual GitHub username -->
+### 🧠 Recent Focus
+
+- 🖥️ Building smart systems that combine physics, data, and machine learning  
+- 🎧 Audio signal processing using ESP32  
+- 🌐 Web-controlled devices and microcontroller networking  
+- 🧮 Exploring computational physics simulations  
+
+---
+
+### 🌐 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- 🧪 [GitHub](https://github.com/brijesh-baraiya)  
+- 🧠 Personal Projects & Demos coming soon...
+
+---
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijesh-baraiya&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+> ⚡ "Blending Physics with Code to Build the Future"
